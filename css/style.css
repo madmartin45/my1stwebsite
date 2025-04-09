@@ -1,0 +1,75 @@
+.introduction {background-color: #D7E4C0;
+}
+
+h1 {font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;}
+ 
+
+.text-center {
+  text-align: center!important;
+}
+.features {background-color:#C6DCBA;}
+
+.container{
+ display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
+img{
+  width:100%;
+  height:auto;
+}
+.box{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width:25rem;
+  min-width:18rem;
+  margin: 10px;
+  text-align: center;}
+
+  h2 {font-family: "Oleo Script", system-ui;
+      font-size: 40px;
+      padding-bottom: 50px;
+      text-align: center;
+      padding-top: 30px;}
+
+ h3  {font-family: "Oleo Script", system-ui;
+      font-size: 30px;
+      padding-top: 20px;}
+
+.container1 {
+              display: flex;
+              justify-content: center;}
+
+table {
+        border-collapse: collapse;
+        width: 50%;
+        max-width: 900px;
+}
+th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid black;
+}
+
+.qualifications {background-color:#BBC3A4;}
+
+.container4 {  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;}
+
+.myemail {background-color: #B3A398;}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.container5 {background-color: #FFDAB9;}
